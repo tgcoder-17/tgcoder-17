@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgcoder-17&label=Profile%20views&color=0e75b6&style=flat" alt="tgcoder-17" /> </p>
 
-- 📄 About me [https://drive.google.com/file/d/11g7DhTYD7E3CIaZ5NugR8RLYXADvm3mC/view?usp=sharing](https://drive.google.com/file/d/11g7DhTYD7E3CIaZ5NugR8RLYXADvm3mC/view?usp=sharing)
-
 - 💬 **I am a passionate and adaptable developer with experience in Flutter and .NET backend development. Starting as a Flutter Intern, I quickly grew into a Junior Flutter Developer, building user-friendly applications and enhancing user experiences. Expanding my expertise, I transitioned into backend development, working with ASP.NET Web API, .NET Core, and various modern technologies to create efficient and scalable solutions. With a strong focus on clean code, performance optimization, and problem-solving, I enjoy taking on new challenges and continuously improving my skills. I thrive in collaborative environments and am always eager to learn and contribute to innovative projects.**
+
+- 📄 About me [Porfolio](https://tushar-portfolio-32677.web.app/)
 
 - 📫 How to reach me **tushar1710vg@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11g7DhTYD7E3CIaZ5NugR8RLYXADvm3mC/view?usp=sharing](https://drive.google.com/file/d/11g7DhTYD7E3CIaZ5NugR8RLYXADvm3mC/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11g7DhTYD7E3CIaZ5NugR8RLYXADvm3mC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

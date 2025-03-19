@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tushar1710vg@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11g7DhTYD7E3CIaZ5NugR8RLYXADvm3mC/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZQFVEeKFOx-Azu_7mJXHIqWUD27NRhbz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

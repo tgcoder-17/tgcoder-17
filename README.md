@@ -5,7 +5,7 @@
 
 - 💬 **I am a passionate and adaptable developer with experience in Flutter and .NET backend development. Starting as a Flutter Intern, I quickly grew into a Junior Flutter Developer, building user-friendly applications and enhancing user experiences. Expanding my expertise, I transitioned into backend development, working with ASP.NET Web API, .NET Core, and various modern technologies to create efficient and scalable solutions. With a strong focus on clean code, performance optimization, and problem-solving, I enjoy taking on new challenges and continuously improving my skills. I thrive in collaborative environments and am always eager to learn and contribute to innovative projects.**
 
-- 📄 About me [Porfolio](https://tushar-portfolio-32677.web.app/)
+- 📄 About me [Porfolio](https://tushar-gangani-portfolio.web.app/)
 
 - 📫 How to reach me **tushar1710vg@gmail.com**
 
